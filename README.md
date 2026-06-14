@@ -124,24 +124,6 @@ jupyter notebook analyse_LCOE_particulier.ipynb
 - Actualisation sur la durée de vie
 - Comparaison des scénarios
 
-## Cas d'Usages
-
-Ce projet est particulièrement utile pour :
-- Évaluer la rentabilité d'une installation solaire résidentielle
-- Comparer différents scénarios (puissance, tarifs, dégradation)
-- Estimer les besoins en stockage (batterie) selon le déficit
-- Analyser l'autoconsommation et optimiser les horaires de consommation
-- Prendre des décisions d'investissement basées sur des données réelles
-
-## Améliorations Futures
-
-- Intégration de système de stockage (batterie)
-- Analyse de sensibilité paramétrique
-- Optimisation de la taille de l'installation
-- Comparaison avec tarifs réseau
-- Modélisation météorologique avancée
-- Dashboard interactif avec Plotly/Dash
-
 ## Auteur
 
 matma-mm
